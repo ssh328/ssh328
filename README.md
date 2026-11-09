@@ -23,6 +23,15 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📌 Featured Projects
+
+### 💅 땡잡은 언니 (Thankunnie) · 뷰티샵 빈자리 예약 플랫폼
+> 흩어진 뷰티샵의 빈자리와 할인을 한곳에서 비교하고, 예약금 결제부터 방문까지 연결하는 서비스입니다. (U-CAMP 2조 · 6인 풀스택 팀 · 2026.10.19 ~ 11.05)
+
+- **내가 맡은 역할** : 찜, 문자(Solapi) 발송, 알림 이벤트, SSE 서버·heartbeat
+- **팀 프로젝트의 핵심 문제** : 같은 빈자리의 동시 예약 제어, 예약·결제 상태 연결, 취소 이후 빈자리 재공개와 알림
+- **검증 (팀 기준)** : 백엔드 자동 테스트 1,131개, JaCoCo 라인 커버리지 94.4%
+- **Stack** : `Java 21` `Spring Boot` `Spring Security` `JPA` `Oracle` `React` `Docker` `AWS EC2`
+- 🔗 [Repository](https://github.com/ironhamlab/thankunnie) · 공개 배포는 발표 후 종료되었습니다.
  
 ### 💳 ResaleStore · 에스크로 기반 중고거래 서비스
 > 게시글 기반 중고거래 서비스로, 결제(Toss Payments) → 에스크로 → 판매자 지갑 정산까지 이어지는 안전 거래 흐름을 구현했습니다.

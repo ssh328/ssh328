@@ -1,4 +1,5 @@
-## Hi there 👋
+<!-- ============ HEADER ============ -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=6495FF&height=240&section=header&text=ssh328%20Github&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Backend%20Developer&descSize=22&descAlignY=58)
  
 ## 🛠 Tech Stack
  
